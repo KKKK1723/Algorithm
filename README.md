@@ -1,2 +1,2 @@
 # Algorithm
-This is about my algorithmic learning process
+Record the daily practice of algorithm
